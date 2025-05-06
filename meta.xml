@@ -4,7 +4,7 @@
 	<version>V1.2</version>
 	<release_date>20250506000000</release_date>
 	<coder>1CreeperTV</coder>
-	<short_description>Launch the HackMii Installer !</short_description>
+	<short_description>Launch the HackMii Installer!</short_description>
 	<long_description>An homebrew app for the Wii which allows you to launch the HackMii Installer without having to redo letterbomb, DNS etc... 
 </long_description>
 </app>
